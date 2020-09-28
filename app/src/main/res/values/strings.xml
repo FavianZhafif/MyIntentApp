@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Object</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="choose_number">Pilih angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="object_received">Object Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="_Nasya_Marcella">_Nasya_Marcella</string>
+    <string name="_Yasmin_Napper">_Yasmin_Napper</string>
+    <string name="_Caitlin_Halderman">_Caitlin_Halderman</string>
+    <string name="_Natasha_Wilona">_Natasha_Wilona</string>
+    <string name="choose_artist">choose_artist</string>
+    <string name="CaitlinHalderman">CaitlinHalderman</string>
+    <string name="YasminNapper">YasminNapper</string>
+    <string name="NasyaMarcella">NasyaMarcella</string>
+    <string name="NatashaWilona">NatashaWilona</string>
+    <string name="Nasya_Marcella">Nasya_Marcella</string>
+    <string name="Yasmin_Napper">Yasmin_Napper</string>
+    <string name="Caitlin_Halderman">Caitlin_Halderman</string>
+    <string name="Natasha_Wilona">Natasha_Wilona</string>
+    <string name="Pilih_Artis_Kesukaanmu">Pilih Artis Kesukaanmu</string>
+    <string name="Nasya__Marcella">Nasya Marcella</string>
+    <string name="Yasmin__Napper">Yasmin Napper</string>
+    <string name="Caitlin__Halderman">Caitlin Halderman</string>
+    <string name="Natasha__Wilona">Natasha Wilona</string>
+    <string name="Pilih__Artis__Kesukaanmu">Pilih Mantan Terindahmu</string>
+</resources>
